@@ -9,8 +9,8 @@ public class Main {
             System.out.println("На улице "+ wether+" градусов, нужно надеть шапку");}
         int speed=60;
         if (speed>=60){
-            System.out.println("Если скорость "+ speed+" можно ездить спокойно");}else {
-            System.out.println("Если скорость "+ speed+" то придется заплатить штраф");}
+            System.out.println("Если скорость "+ speed+" можно ездить спокойно.");}else {
+            System.out.println("Если скорость "+ speed+" то придется заплатить штраф.");}
         int ageTwo=3;
         if (ageTwo>=2&&ageTwo<=6){
             System.out.println("Если возраст человека равен "+ageTwo+" то ему нужно ходить в детский сад.");}
