@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Если скорость "+ speed+" можно ездить спокойно");}
         int age2=3;
         if (age2>=2&&age2<=6){
-            System.out.println("Если возраст человека равен "+age2+" то ему нужно ходить в  детский сад.");}
+            System.out.println("Если возраст человека равен "+age2+" то ему нужно ходить в детский сад.");}
 if(age2>=7&&age2<=17){
     System.out.println("Если возраст человека равен "+age2+" то ему нужно ходить в школу.");}
 if (age2>=18&&age2<=24){
@@ -34,7 +34,7 @@ if(place>=61&&place<=102){
     System.out.println("в вагоне есть стоячие место");}
 if(place>=103){
     System.out.println("мест болеше не осталось");}
-int one=45;
+int one=46;
 int two=280;
 int free=360;
 if (free>one&&free>two){
